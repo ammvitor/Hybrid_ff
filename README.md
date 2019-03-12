@@ -1,2 +1,2 @@
 # Hybrid_ff
-Hybrid_FF implementation for PRotein IDRs
+Hybrid_FF implementation for Protein IDRs
